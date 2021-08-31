@@ -8,4 +8,4 @@ It consists of a calculator that makes simple calculations.
 ![Presentation](https://github.com/IsadoraVanderlan/simple-calculator/blob/main/presentation.gif)
 
 <br/> <br/> <br/>
-#####Desenvolvido por Jorge Sant Ana.
+##### Desenvolvido por Jorge Sant Ana.
