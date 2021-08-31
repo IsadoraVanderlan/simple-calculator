@@ -1,10 +1,11 @@
 #  simple-calculator
  Course project - Complete Web Development 2021 - @Udemy.
  
-Este projeto foi realizado no curso - Desenvolvimento Web Completo 2021 - @Udemy.
+This project was carried out in the course - Complete Web Development 2021 - @Udemy.
+It consists of a calculator that makes simple calculations.
+<br/> <br/> <br/>
 
-Consiste em uma calculadora que faz cálculos simples.
+![Presentation](https://github.com/IsadoraVanderlan/simple-calculator/blob/main/presentation.gif)
 
-Para ver o projeto: https://isadoravanderlan.github.io/simple-calculator/
-
-Desenvolvido por Jorge Sant Ana.
+<br/> <br/> <br/>
+#####Desenvolvido por Jorge Sant Ana.
